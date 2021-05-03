@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "78905E91-515E-4F38-8327-9EFE6F5E6D3D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37856BE5-6431-4362-8B6A-C18382BDFC4D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/TweetsTableViewController.swift"
+            timestampString = "640401400.51326"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B3BA303-C63B-4EFC-A95A-CC2093AF4B98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.492012"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F77EAC3-57AA-44C5-AB92-F6AC9DE089EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.492166"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB316E2F-9934-4DC9-9039-49068644DFB8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.493169"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3830ABD4-922C-40B4-BD59-1C0229875CF4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.494048"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "3830ABD4-922C-40B4-BD59-1C0229875CF4 - 395beb43c12c0519"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static FetchTweets.ApiRestTwitter.loadUserPhoto(tweetId: Swift.Int64, onComplete: (Swift.String) -&gt; (), onError: (FetchTweets.TweetError) -&gt; ()) -&gt; ()"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Model/ApiRestTwitter.swift"
+                  timestampString = "640491362.5835429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1544">
+               </Location>
+               <Location
+                  uuid = "3830ABD4-922C-40B4-BD59-1C0229875CF4 - 17aafaefa8bb1140"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__ObjC.URLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static FetchTweets.ApiRestTwitter.loadUserPhoto(tweetId: Swift.Int64, onComplete: (Swift.String) -&gt; (), onError: (FetchTweets.TweetError) -&gt; ()) -&gt; ()"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Model/ApiRestTwitter.swift"
+                  timestampString = "640491362.589368"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "74">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E00F0F60-82BF-4519-848E-17F06E6058C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.494961"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57B1FD63-F7CA-4449-922F-D44E0A44A091"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.49581"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0947DB84-4F0E-4706-92EE-8E4DD9B30117"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.496545"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2055E09C-06F6-423C-8011-5485228F5651"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/Tweet.swift"
+            timestampString = "640580392.497345"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "TweetSatus"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2055E09C-06F6-423C-8011-5485228F5651 - a8a929bcfd51dfd2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchTweets.TweetSatus.user.getter : FetchTweets.TweetUser"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Model/Tweet.swift"
+                  timestampString = "640494225.909824"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "2055E09C-06F6-423C-8011-5485228F5651 - 6271029568ab73de"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchTweets.TweetSatus.user.setter : FetchTweets.TweetUser"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Model/Tweet.swift"
+                  timestampString = "640494225.916785"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45341372-EAC5-45CD-8CAA-12746B69585C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.497466"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E1FC54E-529B-4CBB-BC39-52F6E187AD5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.4975899"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E1FC54E-529B-4CBB-BC39-52F6E187AD5E - dc743886fe1be0d4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FetchTweets.TweetsTableViewController.searchBarSearchButtonClicked(__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Controller/TweetsTableViewController.swift"
+                  timestampString = "640491362.68207"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "476">
+               </Location>
+               <Location
+                  uuid = "1E1FC54E-529B-4CBB-BC39-52F6E187AD5E - c1dfa34bc177a92a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FetchTweets.TweetWithProfile&gt;) -&gt; () in FetchTweets.TweetsTableViewController.searchBarSearchButtonClicked(__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Controller/TweetsTableViewController.swift"
+                  timestampString = "640491362.687313"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5FFA18F-3C4C-4D4D-8F65-879B443A9AFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.497704"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "searchBarSearchButtonClicked(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E5FFA18F-3C4C-4D4D-8F65-879B443A9AFB - c1dfa34bc177a9c9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;FetchTweets.TweetWithProfile&gt;) -&gt; () in FetchTweets.TweetsTableViewController.searchBarSearchButtonClicked(__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Controller/TweetsTableViewController.swift"
+                  timestampString = "640491362.7009161"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "71">
+               </Location>
+               <Location
+                  uuid = "E5FFA18F-3C4C-4D4D-8F65-879B443A9AFB - 79a2002191e13195"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Array&lt;FetchTweets.TweetWithProfile&gt;) -&gt; () in FetchTweets.TweetsTableViewController.searchBarSearchButtonClicked(__ObjC.UISearchBar) -&gt; ()"
+                  moduleName = "FetchTweets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunomaiademorais/Documents/Estudos%20GP/iOS-Dev/FetchTweets/FetchTweets/Controller/TweetsTableViewController.swift"
+                  timestampString = "640491362.707489"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E05358CF-0D9C-4E41-B02B-8DB119241115"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Model/ApiRestTwitter.swift"
+            timestampString = "640580392.497818"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C289847A-7F7C-40A1-84C1-4B447077E2A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetTableViewCell.swift"
+            timestampString = "640580392.498739"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "prepareCell(tweet:urlProfilePhoto:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3D75F4C2-338C-4224-9EF7-6BAB52BCE6AF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.498857"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1121E78-CB10-43F0-ADEF-3E4CC06CE456"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.49898"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "473589FB-5251-4A6A-92B4-36B21E33F68C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTweets/Controller/TweetsTableViewController.swift"
+            timestampString = "640580392.4990979"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
